@@ -1,3 +1,3 @@
 # hacktober
 
-PR1
+PR-1
